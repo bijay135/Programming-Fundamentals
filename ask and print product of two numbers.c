@@ -1,6 +1,6 @@
 /*
 Author : Bijay Shah
-Subject : Programming Fundmentals
+Subject : Programming Fundamentals
 Roll no :
 Lab Sheet No :2
 Program : Write a program to print product of two no. asked from users
