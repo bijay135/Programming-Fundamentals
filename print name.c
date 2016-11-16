@@ -1,5 +1,5 @@
 /*
-Author/Student : Bijay Shah
+Author : Bijay Shah
 Subject : Programming Fundamentals
 Roll no :
 Lab Sheet no : 1
