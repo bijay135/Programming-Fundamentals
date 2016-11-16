@@ -3,7 +3,7 @@ Author : Bijay Shah
 Subject : Programming Fundamentals
 Roll No :
 Lab Sheet no : 2
-Program : Write a c program to print product & sum of three no. asked from user
+Program : Write a C program to print product & sum of three no. asked from user
 Date : 16 November , 2016
 */
 #include<stdio.h>
