@@ -1,6 +1,6 @@
 /*
 Author/Student : Bijay Shah
-Subject : Programming Fundmentals
+Subject : Programming Fundamentals
 Roll no :
 Lab Sheet no : 1
 Program : Write a C program to print your name
