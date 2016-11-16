@@ -1,6 +1,6 @@
 /*
  Author : Bijay Shah
- Subject : Programming Fundmentals
+ Subject : Programming Fundamentals
  Roll no :
  Lab Sheet no : 1
  Program : Write a program to ask and print name
