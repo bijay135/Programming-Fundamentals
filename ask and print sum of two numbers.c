@@ -2,7 +2,7 @@
 Author : Bijay Shah
 Subject : Programming Fundamentals
 Roll no :
-Lab Sheet No : 2
+Lab Sheet No :2
 Program : Write a C program to print sum of two no. asked from users
 Date : 16 November , 2016
 */
