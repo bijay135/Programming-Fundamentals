@@ -1,6 +1,6 @@
 /*
 Author : Bijay Shah
-Subject : Programming Fundmentals
+Subject : Programming Fundamentals
 Roll No :
 Lab Sheet no : 2
 Program : Write a c program to print product & sum of three no. asked from user
