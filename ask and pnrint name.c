@@ -3,7 +3,7 @@
  Subject : Programming Fundamentals
  Roll no :
  Lab Sheet no : 1
- Program : Write a program to ask and print name
+ Program : Write a C program to ask and print name
  Date : 14 November , 2016
  */
  #include<stdio.h>
