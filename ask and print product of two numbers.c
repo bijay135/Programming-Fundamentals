@@ -3,7 +3,7 @@ Author : Bijay Shah
 Subject : Programming Fundamentals
 Roll no :
 Lab Sheet No :2
-Program : Write a program to print product of two no. asked from users
+Program : Write a C program to print product of two no. asked from users
 */
 #include<stdio.h>
 #include<conio.h>
