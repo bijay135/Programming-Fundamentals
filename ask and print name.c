@@ -2,7 +2,7 @@
  Author : Bijay Shah
  Subject : Programming Fundmentals
  Roll no :
- Lab Sheet no : 2
+ Lab Sheet no : 1
  Program : Write a program to ask and print name
  Date : 14 November , 2016
  */
