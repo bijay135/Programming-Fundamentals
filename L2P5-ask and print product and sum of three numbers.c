@@ -19,7 +19,6 @@ printf("Enter third number:\n");
 scanf("%d",&c);
 sum=a+b+c;
 printf("Sum of three no is: %d\n",sum);
-getch();
 product=a*b*c;
 printf("Product of three number is: %d",product);
 getch();
