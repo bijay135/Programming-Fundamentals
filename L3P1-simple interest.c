@@ -10,14 +10,14 @@ Date: November 18 , 2016
 #include<conio.h>
 void main()
 {
- float p,t,r,i;
- printf("Enter your P:\n");
- scanf("%f",&p);
- printf("Enter your T:\n");
- scanf("%f",&t);
- printf("Enter your R:\n");
- scanf("%f",&r);
- i=p*t*r/100;
- printf("The Simple Interest is: %f",i);
- getch();
+  float p,t,r,i;
+  printf("Enter your P:\n");
+  scanf("%f",&p);
+  printf("Enter your T:\n");
+  scanf("%f",&t);
+  printf("Enter your R:\n");
+  scanf("%f",&r);
+  i=p*t*r/100;
+  printf("The Simple Interest is: %f",i);
+  getch();
 }
