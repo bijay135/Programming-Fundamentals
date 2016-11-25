@@ -12,8 +12,8 @@ Date: November 14 , 2016
 void main ()
 {
 
-printf("My name is Bijay");
-getch();
+  printf("My name is Bijay");
+  getch();
 
 }
 
