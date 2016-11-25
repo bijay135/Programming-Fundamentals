@@ -12,13 +12,13 @@ Date: November 21 , 2016
 #define pi 3.14
 int main()
 {
- float r,area,volume;
- printf("Enter the radius of the sphere:\n");
- scanf("%f",&r);
- area=4*pi*pow(r,2);
- printf("The area of the sphere is : %f\n",area);
- volume=1.33*pi*pow(r,3);
- printf("The volume of sphere is : %f",volume);
- getch();
- return 0;
+  float r,area,volume;
+  printf("Enter the radius of the sphere:\n");
+  scanf("%f",&r);
+  area=4*pi*pow(r,2);
+  printf("The area of the sphere is : %f\n",area);
+  volume=1.33*pi*pow(r,3);
+  printf("The volume of sphere is : %f",volume);
+  getch();
+  return 0;
 }
