@@ -10,12 +10,12 @@ Date : 16 November , 2016
 #include<conio.h>
 void main()
 {
- int a,b,product;
- printf("Enter first number:\n");
- scanf("%d",&a);
- printf("Enter second number:\n");
- scanf("%d",&b);
- product=a*b;
- printf("Product of two number is : %d",product);
- getch();
+  int a,b,product;
+  printf("Enter first number:\n");
+  scanf("%d",&a);
+  printf("Enter second number:\n");
+  scanf("%d",&b);
+  product=a*b;
+  printf("Product of two number is : %d",product);
+  getch();
 }
