@@ -10,17 +10,17 @@ Date: November 25 , 2016
 #include<conio.h>
 int main()
 {
-int n;
-printf("Enter your number:\n");
-scanf("%d",&n);
-if (n>0)
-{
-printf("The number is Positive");
-}
-else if (n<0)
-{
-printf("The number is Negative");
-}
-getch();
-return 0;
+  int n;
+  printf("Enter your number:\n");
+  scanf("%d",&n);
+  if (n>0)
+  {
+    printf("The number is Positive");
+  }
+  else if (n<0)
+  {
+    printf("The number is Negative");
+  }
+  getch();
+  return 0;
 }
