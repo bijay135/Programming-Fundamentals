@@ -10,12 +10,12 @@ Date : 16 November , 2016
 #include<conio.h>
 void main()
 {
- float a,b,division;
- printf("Enter first number\n");
- scanf("%f",&a);
- printf("Enter second number\n");
- scanf("%f",&b);
- division=a/b;
- printf("Division of two numbers is : %f",division);
- getch();
+  float a,b,division;
+  printf("Enter first number\n");
+  scanf("%f",&a);
+  printf("Enter second number\n");
+  scanf("%f",&b);
+  division=a/b;
+  printf("Division of two numbers is : %f",division);
+  getch();
 }
