@@ -10,14 +10,14 @@ Date : 16 November , 2016
 #include<conio.h>
 void main()
 {
-int a,b,sum;
-printf("Enter first number:\n");
-scanf("%d",&a);
-printf("Enter second number:\n");
-scanf("%d",&b);
-sum=a+b;
-printf("Sum of two numbers is : %d",sum);
-getch();
+  int a,b,sum;
+  printf("Enter first number:\n");
+  scanf("%d",&a);
+  printf("Enter second number:\n");
+  scanf("%d",&b);
+  sum=a+b;
+  printf("Sum of two numbers is : %d",sum);
+  getch();
 }
 
 
