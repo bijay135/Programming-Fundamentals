@@ -12,12 +12,12 @@ Date: November 18 , 2016
 #define pi 3.14
 void main()
 {
-float r,area,circumference;
-printf("Enter radius of the circle:\n");
-scanf("%f",&r);
-area=pi*pow(r,2);
-printf("Area of circle is: %f\n",area);
-circumference=2*pi*r;
-printf("Circumference of circle is: %f",circumference);
-getch();
+  float r,area,circumference;
+  printf("Enter radius of the circle:\n");
+  scanf("%f",&r);
+  area=pi*pow(r,2);
+  printf("Area of circle is: %f\n",area);
+  circumference=2*pi*r;
+  printf("Circumference of circle is: %f",circumference);
+  getch();
 }
