@@ -9,10 +9,10 @@ Date: November 23 , 2016
 #include<stdio.h>
 int main()
 {
-float C,F;
-printf("Enter the current temperature in Farhenhit:\n");
-scanf("%f",&F);
-C=0.556*(F-32);
-printf("The temperature in Centtrigrade is : %f",C);
-return 0;
+  float C,F;
+  printf("Enter the current temperature in Farhenhit:\n");
+  scanf("%f",&F);
+  C=0.556*(F-32);
+  printf("The temperature in Centtrigrade is : %f",C);
+  return 0;
 }
