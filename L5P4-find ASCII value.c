@@ -11,12 +11,12 @@ Date: November 23 , 2016
 int main()
 {
 
-char character;
-int asciiValue;
-printf("Enter your character:\n");
-scanf("%c",&character);
-asciiValue=character;
-printf("The ASCII value of the character %c is : %d",character,asciiValue);
-getch();
-return 0;
+  char character;
+  int asciiValue;
+  printf("Enter your character:\n");
+  scanf("%c",&character);
+  asciiValue=character;
+  printf("The ASCII value of the character %c is : %d",character,asciiValue);
+  getch();
+  return 0;
 }
