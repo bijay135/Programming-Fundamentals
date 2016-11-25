@@ -11,16 +11,16 @@ Date: November 21 , 2016
 #include<math.h>
 int main()
 {
-float a,b,c,s,area;
-printf("Enter the first side of triangle:\n");
-scanf("%f",&a);
-printf("Enter the second side of the triangle:\n");
-scanf("%f",&b);
-printf("Enter the third side of the triangle:\n");
-scanf("%f",&c);
-s=a+b+c/2;
-area=sqrt(s*(s-a)*(s-b)*(s-c));
-printf("The area of triangle is : %f",area);
-getch();
-return 0;
+  float a,b,c,s,area;
+  printf("Enter the first side of triangle:\n");
+  scanf("%f",&a);
+  printf("Enter the second side of the triangle:\n");
+  scanf("%f",&b);
+  printf("Enter the third side of the triangle:\n");
+  scanf("%f",&c);
+  s=a+b+c/2;
+  area=sqrt(s*(s-a)*(s-b)*(s-c));
+  printf("The area of triangle is : %f",area);
+  getch();
+  return 0;
 }
