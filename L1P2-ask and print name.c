@@ -10,9 +10,9 @@
  #include<conio.h>
  void main()
  {
-  char name[10];
-  printf("what is your name\n");
-  scanf("%s",&name);
-  printf("name of user is %s",name);
-  getch();
+   char name[10];
+   printf("what is your name\n");
+   scanf("%s",&name);
+   printf("name of user is %s",name);
+   getch();
  }
