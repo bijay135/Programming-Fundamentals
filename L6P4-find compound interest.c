@@ -2,8 +2,9 @@
 Author : Bijay Shah
 Subject : Programming Fundamentals
 Roll no :
-Lab Sheer NO : 6
+Lab Sheet NO : 6
 Program : Write a C program to find Compound Interest.
+Date : November 25 , 2016
 */
 #include<stdio.h>
 #include<conio.h>
