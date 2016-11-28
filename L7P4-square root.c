@@ -3,7 +3,7 @@ Author : Bijay Shah
 Subject : Programming Fundamentals
 Roll no :
 Lab Sheer NO : 7
-Program : Write a C Program to find square
+Program : Write a C Program to find square root
 Date : 28 November , 2016
 */
 #include<stdio.h>
