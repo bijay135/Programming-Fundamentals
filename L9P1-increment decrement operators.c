@@ -2,7 +2,7 @@
 Author : Bijay Shah
 Subject : Programming Fundamentals
 Roll no :
-Lab Sheer NO : 9
+Lab Sheet NO : 9
 Program : Write a C Program to increment or decrement
 Date : December 2 , 2016
 */
