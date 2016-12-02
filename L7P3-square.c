@@ -2,7 +2,7 @@
 Author : Bijay Shah
 Subject : Programming Fundamentals
 Roll no :
-Lab Sheer NO : 7
+Lab Sheet NO : 7
 Program : Write a C Program to find square
 Date : 28 November , 2016
 */
