@@ -2,7 +2,7 @@
 Author : Bijay Shah
 Subject : Programming Fundamentals
 Roll no :
-Lab Sheer NO : 8
+Lab Sheet NO : 8
 Program : Write a C Program to use Assignment Numbers
 Date : 30 November , 2016
 */
