@@ -4,7 +4,7 @@ Subject : Programming Fundamentals
 Roll no :
 Lab Sheet NO : 10
 Program : Write a C Program to use Relational operations
-Date : December 2 , 2016
+Date : December 5 , 2016
 */
 
 #include<stdio.h>
