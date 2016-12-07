@@ -23,7 +23,7 @@ int main()
     {
         printf("Your first number is greatest");
     }
-    else if (b>=c && b>=a)
+    else if (b>=c)
     {
         printf("Your second number is greatest");
     }
