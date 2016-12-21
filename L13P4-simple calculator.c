@@ -55,12 +55,10 @@ int main()
         c=a/b;
         printf("\nThe division is %d",c);
         break;
-    case 5:
         default:
             printf("\t\t\tThank you for visiting");
-        exit(0);
-        break;
-        getch();
-        return 0;
+       
     }
+     getch();
+     return 0;
 }
