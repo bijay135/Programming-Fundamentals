@@ -3,7 +3,7 @@ Author : Bijay Shah
 Subject : Programming Fundamentals
 Roll no :
 Lab Sheet NO : 16
-Program :
+Program : WAP to cbeck alphabet or not using ternary
 Date : January 8 , 2017
 */
 
