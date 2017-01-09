@@ -3,7 +3,7 @@ Author : Bijay Shah
 Subject : Programming Fundamentals
 Roll no :
 Lab Sheet NO : 16
-Program :
+Program : WAP to display reverse natural number from n to 1 using while loop
 Date : January 8 , 2017
 */
 
