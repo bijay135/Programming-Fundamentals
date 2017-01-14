@@ -3,7 +3,7 @@ Author : Bijay Shah
 Subject : Programming Fundamentals
 Roll no :
 Lab Sheet NO : 17
-Program :WAP to calculate sum of digits
+Program :WAP to calculate product of digits
 Date : January 12 , 2017
 */
 #include<stdio.h>
