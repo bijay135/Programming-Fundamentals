@@ -8,8 +8,6 @@ Date : January 12 , 2017
 */
 #include<stdio.h>
 #include<conio.h>
-#include<stdio.h>
-#include<conio.h>
 int main()
 {
     int n,z;
