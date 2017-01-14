@@ -17,7 +17,7 @@ int main()
     do
     {
         table=n*z;
-        printf("%\n%d * %d = %d\t",n,z,table);
+        printf("\n%d * %d = %d\t",n,z,table);
         z++;
     }
     while(z<=10);
