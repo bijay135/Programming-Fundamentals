@@ -17,7 +17,7 @@ int main()
     while(z<=10)
     {
         table=n*z;
-        printf("%\n%d * %d = %d\t",n,z,table);
+        printf("\n%d * %d = %d\t",n,z,table);
         z++;
     }
     getch();
