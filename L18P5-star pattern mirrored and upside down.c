@@ -3,7 +3,12 @@ Author : Bijay Shah
 Subject : Programming Fundamentals
 Roll no :
 Lab Sheet NO : 18
-Program :WAP print star pattern upside down
+Program :WAP print star pattern
+         *****
+          ****
+           ***
+            **
+             *
 Date : January 15 , 2017
 */
 
