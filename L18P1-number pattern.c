@@ -4,6 +4,10 @@ Subject : Programming Fundamentals
 Roll no :
 Lab Sheet NO : 18
 Program :WAP to print number pattern
+         1
+         12
+         1234
+         12345
 Date : January 15 , 2017
 */
 
