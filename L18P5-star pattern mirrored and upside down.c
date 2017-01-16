@@ -21,14 +21,10 @@ int main()
     {
         for(n=1;n<=5;n++)
         {
-            if(n>=i)
-            {
-                printf("*");
-            }
-            else
-            {
-                printf(" ");
-            }
+        if(n<i)
+            printf(" ");
+        else
+            printf("*");
         }
         printf("\n");
     }
