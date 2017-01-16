@@ -4,6 +4,11 @@ Subject : Programming Fundamentals
 Roll no :
 Lab Sheet NO : 18
 Program :WAP to print star pattern
+         *
+         **
+         ***
+         ****
+         *****
 Date : January 15 , 2017
 */
 
