@@ -3,7 +3,12 @@ Author : Bijay Shah
 Subject : Programming Fundamentals
 Roll no :
 Lab Sheet NO : 18
-Program :WAP print number pattern flipped
+Program :WAP print number pattern
+         12345
+          2345
+           345
+            45
+             5
 Date : January 15 , 2017
 */
 
