@@ -22,19 +22,16 @@ int main()
         for(n=1;n<=5;n++)
         {
             if(n<i)
-            {
                 printf(" ");
-            }
             else
-            {
                 printf("%d",n);
-            }
         }
         printf("\n");
     }
     getch();
     return 0;
 }
+
 
 
 
