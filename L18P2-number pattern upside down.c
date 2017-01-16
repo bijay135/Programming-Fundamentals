@@ -3,7 +3,12 @@ Author : Bijay Shah
 Subject : Programming Fundamentals
 Roll no :
 Lab Sheet NO : 18
-Program :WAP print number pattern reverse
+Program :WAP print number pattern
+         12345
+         1234
+         123
+         12
+         1
 Date : January 15 , 2017
 */
 
