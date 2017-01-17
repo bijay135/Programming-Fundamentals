@@ -13,6 +13,7 @@ void cube();
 int main()
 {
     cube();
+    getch();
     return 0;
 }
 void cube()
