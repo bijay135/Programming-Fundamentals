@@ -22,7 +22,7 @@ void fib(int n)
 {
     int i,a=0,b=1,z;
     printf("\n %d %d",a,b);
-    for(i=2;i<n;i++)
+    for(i=3;i<=n;i++)
     {
         z=a+b;
         a=b;
