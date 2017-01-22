@@ -9,25 +9,24 @@ Program :WAP to print Armstrong number from 1 to 1000
 #include<conio.h>
 int main()
 {
-    int i,z,a=0,temp;
+    int z,a,temp,i,n;
     for(i=1;i<=1000;i++)
     {
-            a=0;
-            temp=i;
-        while(i>0)
+        a=0;
+        n=i;
+        temp=i;
+        while(n>0)
         {
-            z=i%10;
+            z=n%10;
             a=(z*z*z)+a;
-            i=i/10;
+            n=n/10;
         }
         if(temp==a)
         {
-            printf("%d ",a);
+            printf("\t%d\t",temp);
         }
     }
     getch();
     return 0;
 }
-
-
 
