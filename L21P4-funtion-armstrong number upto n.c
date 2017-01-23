@@ -12,7 +12,7 @@ int arm(int n);
 int main()
 {
     int result,n;
-    printf("Enter your number to reverse:\n");
+    printf("Enter your number:\n");
     scanf("%d",&n);
     result=arm(n);
     if(result==1)
