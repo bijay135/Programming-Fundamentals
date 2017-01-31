@@ -17,7 +17,7 @@ int main()
     {
         for(j=0;j<3;j++)
         {
-            if(m1[i][j]==m2[i][j]);
+            if(m1[i][j]==m2[i][j])
                 count++;
         }
     }
