@@ -10,7 +10,7 @@ Date: January 31 , 2017
 #include<conio.h>
 int main()
 {
-int i,j,count=0;
+    int i,j,count=0;
     int m1[5][2]={{1,2,3,4,5},{2,3,4,5,6}};
     int m2[5][2]={{1,2,3,4,5},{2,3,4,5,6}};
     for(i=0;i<5;i++)
