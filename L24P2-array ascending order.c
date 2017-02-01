@@ -25,7 +25,7 @@ int main()
         }
 
     }
-    printf("The array arranged in ascending order are:\n\n");
+    printf("The array in ascending order are:\n\n");
     for (i=0;i<10;i++)
     {
         printf("%d\t",a[i]);
