@@ -19,10 +19,10 @@ int main()
     scanf("%d %s %f",&s1.id,&s1.batch,&s1.percentage);
     printf("\n");
     printf("Enter student 2 id , batch and percentage:\n");
-    scanf("id=%d batch=%s percentage=%f",&s2.id,&s2.batch,&s2.percentage);
+    scanf("%d %s %f",&s2.id,&s2.batch,&s2.percentage);
     printf("\n\n");
     printf("Student 1:\n");
-    printf("%d %s %f",s1.id,s1.batch,s1.percentage);
+    printf("id=%d batch=%s percentage=%f",s1.id,s1.batch,s1.percentage);
     printf("\n\n");
     printf("Student 2:\n");
     printf("id=%d batch=%s percentage=%f",s2.id,s2.batch,s2.percentage);
