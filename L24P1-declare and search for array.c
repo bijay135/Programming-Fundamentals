@@ -18,6 +18,7 @@ int main()
     {
         if(n==a[i])
             f=1;
+            break;
     }
     if(f==1)
         printf("The number exits",n);
