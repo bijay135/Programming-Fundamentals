@@ -19,7 +19,7 @@ int main()
     while(value==1)
     {
         printf("%s ",data);
-	value = fscanf(f1,"%s",data);
+	value = fscanf(f1,"%s",&data);
     }
     fclose(f1);
     getch();
