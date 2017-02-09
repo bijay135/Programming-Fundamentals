@@ -3,7 +3,7 @@ Author : Bijay Shah
 Subject : Programming Fundamentals
 Roll no :
 Lab Sheet NO : 29
-Program :WAP to create and file and assign data to the file.
+Program :WAP to create a file and assign data to the file.
 Date : Feburary 8 , 2017
 */
 #include<stdio.h>
